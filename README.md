@@ -22,7 +22,7 @@ A Ecommerce Website made with React.js Framework.
 Clone the project
 
 ```bash
-  //yha pe github ka dalna hai.
+  https://github.com/Arunkumaryad/Ecommerce-Website-using-React
 ```
 
 Go to the project directory
